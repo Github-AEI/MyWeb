@@ -75,7 +75,8 @@ h3 {
   background-color: grey;
   color: white;
   text-align: center;
-  padding: 10px;
+  padding: 5px;
+  width: 250px;
 }
 .myButton {
 	box-shadow: 0px 1px 0px 0px #fff6af;
